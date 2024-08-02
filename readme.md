@@ -28,13 +28,6 @@ This project is a C++ multithreaded file downloader that utilizes the cURL libra
    ```
 
 
-2. **Navigate to the Project Directory**:
-
-   ```bash
-   cd your-repo
-   ```
-
-   Replace `your-repo` with the name of your cloned repository directory.
 
 ## Build the Project
 
