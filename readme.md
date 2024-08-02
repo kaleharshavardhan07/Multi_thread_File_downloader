@@ -24,10 +24,9 @@ This project is a C++ multithreaded file downloader that utilizes the cURL libra
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/kaleharshavardhan07/Multi_thread_File_downloader.git
    ```
 
-   Replace `https://github.com/yourusername/your-repo.git` with the URL of your repository.
 
 2. **Navigate to the Project Directory**:
 
